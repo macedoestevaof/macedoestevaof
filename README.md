@@ -40,7 +40,7 @@ My research explore and identify social phenomena from the manipulation of big d
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## More Career Highlights ✨
-- **Experience** I have 6+ years of experience in Tech & Communications.
+- **Experience:** I have 6+ years of experience in Tech & Communications.
 - **Leadership:** I successfully led multidisciplinary teams.
 - **Big clients:** I contributed to strategic projects for Sabesp, São Camilo, and Grupo Ânima Educação.
 - **Product growth:** I led marketing for a startup applying product thinking to support sustainable growth.
