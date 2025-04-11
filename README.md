@@ -3,15 +3,15 @@
 I am a data scientist and researcher in social sciences. In summary I work with **Python** and **SQL**.
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. 
-See below the path I have taken so far in my career.
+Below, you can see the path I've taken so far in my career.
 
 ## Academic Background 🎓 
 
-I hold a bachelor's of Social Communications. Currently, I am a master's degree student at Complex Systems Modeling at the University of São Paulo.
+I hold a Bachelor's degree in Social Communication. Currently, I’m pursuing a Master's degree in Complex Systems Modeling at the University of São Paulo.
 
 ## Science Activit 💻 🔬
 
-My research explore and identify social phenomena from the manipulation of big data. I design algorithms in **Python** and **SQL** to apply data science techniques for understand scientific migration and their subsequent complex networks structure.
+My research explores and identifies social phenomena from the manipulation of big data. I design algorithms in **Python** and **SQL** to apply data science techniques aimed at understanding scientific migration and the resulting structure of complex networks.
 
 ## Developer Toolbox 🔧
 
@@ -40,13 +40,13 @@ My research explore and identify social phenomena from the manipulation of big d
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ## More Career Highlights ✨
-- **Experience:** I have 6+ years of experience in Tech & Communications.
-- **Leadership:** I successfully led multidisciplinary teams.
-- **Big clients:** I contributed to strategic projects for Sabesp, São Camilo, and Grupo Ânima Educação.
-- **Product growth:** I led marketing for a startup applying product thinking to support sustainable growth.
+- **Experience:** 6+ years of experience in Tech & Communications.
+- **Leadership:** Successfully led multidisciplinary teams.
+- **Big clients:** Contributed to strategic projects for Sabesp, São Camilo, and Grupo Ânima Educação.
+- **Product growth:** Led marketing for a startup, applying product thinking to support sustainable growth.
 
 ## Let's Connect! 💬
 - **LinkedIn:** [Estevao Macedo](https://www.linkedin.com/in/estevao-macedo/?locale=en_US)
 - **Email** [macedoedesign@gmail.com](mailto:estevao.macedo@usp.br)
 
-I speak Portuguese fluently and I'm at the advanced level of English.
+I’m fluent in Portuguese and have an advanced level of English.
