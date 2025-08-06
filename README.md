@@ -9,7 +9,7 @@ Below, you can see the path I've taken so far in my career.
 
 I hold a Bachelor's degree in Social Communication. Currently, I’m pursuing a Master's degree in Complex Systems Modeling at the University of São Paulo.
 
-## Science Activit 💻 🔬
+## Science Activity 💻 🔬
 
 My research explores and identifies social phenomena from the manipulation of big data. I design algorithms in **Python** and **SQL** to apply data science techniques aimed at understanding scientific migration and the resulting structure of complex networks.
 
